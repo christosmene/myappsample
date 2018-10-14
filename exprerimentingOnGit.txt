@@ -1,0 +1,31 @@
+BASIC COMMANDS
+1)Git init //Initialize Local Git Repository  (it will create a .git folder in that project-hidden by default) - Usually you dont use this folder
+
+2)git add <file>  //Add file(s) To index (index is the staging area)
+-->opposite:git rm --cached index.html
+
+
+
+
+3)git status //Check Status of worrking tree check what is on staging are
+git
+4)git commit //Commit changes In Index (pairnei oti exei sto staging are kai to bazei sto repository)
+
+
+Commands for remote repositories
+5) git push //Push to remote repository
+
+6)git pull //Pull latest changes from remote repository
+
+7)git clone  //Clone repository Into a new directive (download remote repo to my machine)
+
+
+
+
+Akura commands
+--> git --version //what version of git i use
+
+Prepei na balw sto project onoma kai mail
+-->$ git config user.name 'Chris Mene'
+-->$ git config user.email 'chris@chris@hotmail.com'
+
